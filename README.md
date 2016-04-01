@@ -1,5 +1,5 @@
 # Humphrey-Robot
-A robot named Humphrey, built with SparkFun RedStick
+A robot named Humphrey, built with SparkFun BadgerStick/RedStick
 
 Parts can be found here: http://sfe.io/w125374
 
